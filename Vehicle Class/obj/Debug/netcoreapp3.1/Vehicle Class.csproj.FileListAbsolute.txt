@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\bin\Debug\netcoreapp3.1\Vehicle Class.exe
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\bin\Debug\netcoreapp3.1\Vehicle Class.deps.json
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\bin\Debug\netcoreapp3.1\Vehicle Class.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\bin\Debug\netcoreapp3.1\Vehicle Class.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\bin\Debug\netcoreapp3.1\Vehicle Class.dll
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\bin\Debug\netcoreapp3.1\Vehicle Class.pdb
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\obj\Debug\netcoreapp3.1\Vehicle Class.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\obj\Debug\netcoreapp3.1\Vehicle Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\obj\Debug\netcoreapp3.1\Vehicle Class.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\obj\Debug\netcoreapp3.1\Vehicle Class.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\obj\Debug\netcoreapp3.1\Vehicle Class.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\obj\Debug\netcoreapp3.1\Vehicle Class.dll
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\obj\Debug\netcoreapp3.1\Vehicle Class.pdb
+C:\Users\ASUS\Desktop\C# tasks\Vehicle Class\Vehicle Class\obj\Debug\netcoreapp3.1\Vehicle Class.genruntimeconfig.cache
